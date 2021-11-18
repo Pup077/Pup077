@@ -2,8 +2,8 @@
 
 <h3>My Name Tusthep Hemtanon เป็นนักศึกษาหน้าใหม่ที่จะเข้าวงการ Developer ที่ยังขาดประสบการณ์แต่จะทำให้ดีนะครับ</h3>
 
-Inline-style: 
-![alt text](https://paoschools.com/wp-content/uploads/nsl_avatars/41a8aeeff2f0d71ee1abda26e0a9acbc-150x150.jpg "Logo Title Text 1")
+
+![alt text](https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.6435-1/p240x240/80277895_2512573618993106_2259252827484323840_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeEnie3l5K5cAyAm9hfSlPlCwnHhW8e5xubCceFbx7nG5tKOSEuyO9n9LS0fw4i9TAR3trjs_JyFzweziaRWt9xO&_nc_ohc=lFpFp_IxNbsAX9GJoD1&_nc_ht=scontent.fbkk10-1.fna&oh=f314eb2bd9f9239cb443c6d8fd7836dd&oe=61BA1B2E "Logo Title Text 1")
 
 <h4>- 🔭 I’m currently working on ฉันเป็นนักศึกษาหน้าใหม่เอียม</h4>
 
