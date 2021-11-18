@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ฉันเป็นนักศึกษาหน้าใหม่เอียม
+
 <!--
 **Pup077/Pup077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
