@@ -6,6 +6,9 @@
 ![alt text](https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.6435-1/p240x240/80277895_2512573618993106_2259252827484323840_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeEnie3l5K5cAyAm9hfSlPlCwnHhW8e5xubCceFbx7nG5tKOSEuyO9n9LS0fw4i9TAR3trjs_JyFzweziaRWt9xO&_nc_ohc=lFpFp_IxNbsAX9GJoD1&_nc_ht=scontent.fbkk10-1.fna&oh=f314eb2bd9f9239cb443c6d8fd7836dd&oe=61BA1B2E "Logo Title Text 1")
 
 <h4>- 🔭 I’m currently working on ฉันเป็นนักศึกษาหน้าใหม่เอียม</h4>
+<h4>- 🌱 I’m currently learning CSS HTML PHP JS PY</h4>
+<h4>- 👯 I’m looking to collaborate on ... Developer Wed 👀</h4>
+
 
 <!--
 **Pup077/Pup077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
