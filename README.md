@@ -3,7 +3,7 @@
 <h3>My Name Tusthep Hemtanon เป็นนักศึกษาหน้าใหม่ที่จะเข้าวงการ Developer ที่ยังขาดประสบการณ์แต่จะทำให้ดีนะครับ</h3>
 
 
-![alt text](https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.6435-9/80277895_2512573618993106_2259252827484323840_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEnie3l5K5cAyAm9hfSlPlCwnHhW8e5xubCceFbx7nG5tKOSEuyO9n9LS0fw4i9TAR3trjs_JyFzweziaRWt9xO&_nc_ohc=xqR9g7W4b8IAX9JMZt2&_nc_ht=scontent.fbkk10-1.fna&oh=00_AT8mF6WdEP1SlX4JIAaN5u8AR8GhXjIpgJt-Ue-aziRqiQ&oe=620844CF)
+
 
 <h4>- 🔭 I’m currently working on ฉันเป็นนักศึกษาหน้าใหม่เอียม</h4>
 <h4>- 🌱 I’m currently learning CSS HTML PHP JS PY</h4>
