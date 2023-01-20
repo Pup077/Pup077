@@ -6,13 +6,13 @@
 
 ### Skills: / Python / JS / HTML / CSS
 
-### - 🔭 I’m currently working on this page. **WebApp** 
-### - 🌱 I’m currently learning **Flutter** 
-### - 👯 I’m looking to collaborate on **Google** 
-### - 🤔 I’m looking for help with *Flutter and all* 
-### - 💬 Ask me about *AI Image Processing* 
-### - 📫 How to reach me: **Facebook** 
-### - 😄 Pronouns: **We** 
+#### - 🔭 I’m currently working on this page. **WebApp** 
+#### - 🌱 I’m currently learning **Flutter** 
+#### - 👯 I’m looking to collaborate on **Google** 
+#### - 🤔 I’m looking for help with *Flutter and all* 
+#### - 💬 Ask me about *AI Image Processing* 
+#### - 📫 How to reach me: **Facebook** 
+#### - 😄 Pronouns: **We** 
 
 ### **Reach me**
 
