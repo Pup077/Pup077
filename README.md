@@ -22,4 +22,6 @@ Skills: / Python / JS / HTML / CSS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pup077)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pup077&hide=contribs,prs)
+
 ![Profile views](https://gpvc.arturio.dev/Pup077)  
