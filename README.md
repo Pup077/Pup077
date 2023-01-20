@@ -1,4 +1,4 @@
-### Hi there 👋, **I'm Tusthep**
+### **I'm Tusthep** 👋 🧑‍💻
 #### **I am WebApp developer and Ai developer**
 ![**I am WebApp developer and Ai developer**](https://scontent.fbkk6-1.fna.fbcdn.net/v/t39.30808-6/326458435_1376525779786551_4223393276766237896_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=wb0udejIwFoAX-eqBNR&_nc_ht=scontent.fbkk6-1.fna&oh=00_AfB8KBiePLEgSLx6Ku4Kx0wxzfktgTkAHZLp9hYDRJZkqg&oe=63CE8147)
 
