@@ -1,4 +1,4 @@
-### Hi There Everyone👋
+### Hi i'am Tusthp👋
 
 <h3>My Name Tusthep Hemtanon เป็นนักศึกษาหน้าใหม่ที่จะเข้าวงการ Developer ที่ยังขาดประสบการณ์แต่จะทำให้ดีนะครับ</h3>
 
