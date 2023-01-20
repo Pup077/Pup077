@@ -2,17 +2,17 @@
 ### **I am WebApp developer and Ai developer**
 ![**I am WebApp developer and Ai developer**](https://scontent.fbkk6-1.fna.fbcdn.net/v/t39.30808-6/326458435_1376525779786551_4223393276766237896_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=wb0udejIwFoAX-eqBNR&_nc_ht=scontent.fbkk6-1.fna&oh=00_AfB8KBiePLEgSLx6Ku4Kx0wxzfktgTkAHZLp9hYDRJZkqg&oe=63CE8147)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: / Python / JS / HTML / CSS
+### Skills: / Python / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. **WebApp** 
-- 🌱 I’m currently learning **Flutter** 
-- 👯 I’m looking to collaborate on **Google** 
-- 🤔 I’m looking for help with *Flutter and all* 
-- 💬 Ask me about *AI Image Processing* 
-- 📫 How to reach me: **Facebook** 
-- 😄 Pronouns: **We** 
+### - 🔭 I’m currently working on this page. **WebApp** 
+### - 🌱 I’m currently learning **Flutter** 
+### - 👯 I’m looking to collaborate on **Google** 
+### - 🤔 I’m looking for help with *Flutter and all* 
+### - 💬 Ask me about *AI Image Processing* 
+### - 📫 How to reach me: **Facebook** 
+### - 😄 Pronouns: **We** 
 
 ### **Reach me**
 
